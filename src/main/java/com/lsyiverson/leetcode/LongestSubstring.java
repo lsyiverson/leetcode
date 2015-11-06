@@ -46,8 +46,4 @@ public class LongestSubstring {
         }
         return max;
     }
-
-    public static void main(String[] args) {
-        LongestSubstring.lengthOfLongestSubstring("");
-    }
 }
